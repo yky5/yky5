@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://protected-roblox-scripts.onrender.com/2b27a5a695df35f896517f41af6c1873"))()
+loadstring(game:HttpGet("https://protected-roblox-scripts.onrender.com/1e319033ec6d8de656e0e7782fa9373c"))()
